@@ -80,7 +80,7 @@ input:focus {
         transition: all 0.5s ease;
     }
     input {
-        width: 97%;
+        width: 96%;
     }
 }
 
@@ -98,6 +98,6 @@ input:focus {
         height: 300px;
     }
     input {
-        width: 96%;
+        width: 95%;
     }
 }
